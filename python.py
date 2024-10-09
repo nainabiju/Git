@@ -6,6 +6,7 @@ def self_introduction(name, age, hobby, profession):
     print("My hobbies include",hobby + ".")
     print("My blood group",blood group + ".")
     print("My sibbling details",sibbling + ",")
+    print("My relationship status",status)
 
 # Customize your details here
 my_name = "Alice"
@@ -16,3 +17,4 @@ my_hobby = "Painting"
 my_bloodgroup ="o+ve"
 self_introduction(my_name, my_age, my_hobby, my_profession)
 sibbling = "avinash"
+status= single
